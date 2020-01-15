@@ -1,1 +1,1 @@
-{"tfjsVersion":"1.3.1","tmVersion":"2.1.2","packageVersion":"0.8.4","packageName":"@teachablemachine/image","timeStamp":"2020-01-08T03:59:21.028Z","userMetadata":{},"modelName":"tm-my-image-model","labels":["スナバァ","Class 2"]}
+{"tfjsSpeechCommandsVersion":"0.4.0","modelName":"TMv2","timeStamp":"2020-01-14T15:29:55.730Z","wordLabels":["_background_noise_","偽物","本物"]}
